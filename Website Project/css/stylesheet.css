@@ -34,7 +34,7 @@ p {
     font-family: Helvetica;
 }
 
-span {
+.price {
     font-family: Helvetica;
     font-weight: bold;
     color: blue;
