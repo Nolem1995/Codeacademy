@@ -4,7 +4,39 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1v1lww2*_gcl_au*MzY1MjE0NDMuMTcxNjcxOTAwOA..*_ga*MTcyNTg5NTUzMy4xNzE2NzE5MDE3*_ga_3LRZM6TM9L*MTcyMzgyODMyMS41OS4xLjE3MjM4MjkwNTQuMC4wLjA.);
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg');
     background-size: cover;
 }
 
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.left-align {
+    display: block;
+    margin-left: 0;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+}
+
+p {
+    color: black;
+    text-align: left;
+    font-family: Helvetica;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+
+}
