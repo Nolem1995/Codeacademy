@@ -8,7 +8,7 @@ h1 {
     background-size: cover;
 }
 
-h2 {
+.brush {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
@@ -40,3 +40,20 @@ p {
     color: blue;
 }
 
+
+.frame {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+
+}
